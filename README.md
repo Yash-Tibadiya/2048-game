@@ -28,7 +28,7 @@ The official app can also be found on the [Play Store](https://play.google.com/s
 
 Clone this repository:
    ```bash
-   git clone https://github.com/your-username/2048-game.git
+   git clone https://github.com/Yash-Tibadiya/2048-game
   ```
 
 ### Screenshot
